@@ -1,0 +1,41 @@
+
+# Food Safety Inspection Viewer
+
+## Project Description
+A simple web application for viewing and managing food safety inspection records using Node.js and Express.
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express.js
+
+## Features
+1. Dashboard with inspection statistics
+2. Add and delete inspection records
+3. Search and filter inspections
+4. Automatic pass or needs-attention status
+5. Food safety guidelines
+6. Interactive safety checklist
+7. Responsive design
+
+## Installation
+
+1. Install Node.js.
+2. Open the project folder in VS Code.
+3. Open the terminal.
+4. Run:
+
+   npm install
+
+5. Start the server:
+
+   npm start
+
+6. Open http://localhost:3000 in your browser.
+
+## Note
+This educational project stores data in memory.
+New records are lost when the server restarts.
+The inspection scores are sample data and are not official certifications.

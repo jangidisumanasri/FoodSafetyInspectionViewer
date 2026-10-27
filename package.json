@@ -1,0 +1,1 @@
+{"name":"food-safety-inspection-viewer","version":"1.0.0","description":"Simple Food Safety Inspection Viewer","main":"server.js","scripts":{"start":"node server.js"},"dependencies":{"express":"^5.1.0"}}
